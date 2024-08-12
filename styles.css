@@ -1,0 +1,36 @@
+/* Custom styles */
+body {
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    color: #333;
+}
+
+.navbar-brand {
+    font-size: 1.5rem;
+}
+
+.container {
+    max-width: 800px;
+}
+
+footer {
+    margin-top: 20px;
+}
+
+.jumbotron {
+    background-color: #e9ecef;
+}
+
+.section {
+    padding: 2rem 0;
+}
+
+.form-group {
+    margin-bottom: 1rem;
+}
+
+ul {
+    list-style-type: square;
+}
